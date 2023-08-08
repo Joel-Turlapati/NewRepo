@@ -3,6 +3,7 @@
 **Task 1 - Praval**
 
 
+
 ![Praval](https://github.com/pravaltraining/task1-html-css-praval/assets/113437182/2f79deb6-7ba9-4915-898e-c25de56c62ff)
 
 
