@@ -2,7 +2,7 @@
 
 **Task 1 - Praval**
 
-Check resources folder to get the required resources and mockups
+Check the resources folder to get the required mockups and resources  
 
 Note:
 1. Task must be completed as an individual effort. Do not collaborate with anyone or share it with any individual, party, or entity.
