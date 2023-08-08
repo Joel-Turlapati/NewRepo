@@ -1,6 +1,4 @@
-# HTML & CSS
-
-**Task 1 - Praval**
+# PRAVAL
 
 Check the resources folder to get the required mockups and resources  
 
