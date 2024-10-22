@@ -1,6 +1,9 @@
 .parent_div{
     font-family: "Poppins", "Roboto", Arial, sans-serif;
 }
+.logo{
+    padding-right: 30px;
+}
 .a_elements{
     color: #625c5c;
     text-align: center;
@@ -23,6 +26,18 @@
     font-size: 12px;
     display: flex;
     justify-content: space-around;
+}
+.middle1{
+    display: flex; justify-content: flex-end; width: 100%;
+}
+.middle2{
+    display: flex; justify-content: flex-start; width: 96%;
+}
+.home_nav{
+    display: flex; justify-content: space-around; height: 80px; align-items: center;
+}
+.list_cont{
+    list-style: none; display: flex;
 }
 .separator1::after {
     content: "";  
